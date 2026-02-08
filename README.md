@@ -31,4 +31,5 @@ To build a **strong Python foundation** and progress toward advanced topics.
 
 ## 🔖 Note
 
-Hands-on coding practice is maintained in a **separate repository**.
+Hands-on coding practice is maintained in the **python-basics** repository.
+
