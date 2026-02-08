@@ -1,23 +1,34 @@
-# 👋 Hi, I'm Giri | Python Developer in Progress
+# 👋 Hi, I’m Giri
 
-This repository contains my **daily Python practice** as I follow my Python Developer Roadmap.
+This repository contains my **Python notes** created while learning core Python concepts.
 
-## 📘 What I’m Learning
-- Variables & Data Types  
-- Strings  
-- If…Else  
-- Loops  
-- Functions  
-- Lambda  
-- Lists, Tuples  
-- OOP  
-- File Handling  
-- Projects
-- 
-## 🔥 My Goal  
-On a journey to become a strong Python, Machine Learning, and AI practitioner through daily learning and hands-on projects.
+---
 
+## 📘 Topics Covered
 
-## 📅 Daily Uploads  
-Every day I upload my practice files here to track my progress publicly.
+- **Variables**
+- **Assigning Values, Output & Global Variables**
+- **Data Types**
+- **Type Casting**
+- **Input Basics**
+- **Strings**
+- **Booleans**
+- **Operators**
 
+---
+
+## 🧠 Purpose
+
+To maintain **clear Python notes** for revision and interview preparation.
+
+---
+
+## 🚀 Learning Goal
+
+To build a **strong Python foundation** and progress toward advanced topics.
+
+---
+
+## 🔖 Note
+
+Hands-on coding practice is maintained in a **separate repository**.
